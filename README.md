@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0217-contains-duplicate) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0217-contains-duplicate) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
