@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0912-sort-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0217-contains-duplicate) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0912-sort-an-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Enumeration
 |  |
 | ------- |
