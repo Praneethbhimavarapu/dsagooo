@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1486-xor-operation-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bit Manipulation
 |  |
@@ -86,5 +88,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
