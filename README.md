@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1512-number-of-good-pairs) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1512-number-of-good-pairs) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0912-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1512-number-of-good-pairs) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -90,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1920-build-array-from-permutation) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
