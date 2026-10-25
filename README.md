@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1512-number-of-good-pairs) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bit Manipulation
