@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1486-xor-operation-in-an-array) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/2595-number-of-even-and-odd-bits) |
 ## Simulation
 |  |
 | ------- |
