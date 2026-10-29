@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -99,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0258-add-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
