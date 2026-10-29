@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0217-contains-duplicate) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1695-maximum-erasure-value) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
