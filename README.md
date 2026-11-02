@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0217-contains-duplicate) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1512-number-of-good-pairs) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0912-sort-an-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Enumeration
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Praneethbhimavarapu/dsagooo/tree/master/1486-xor-operation-in-an-array) |
